@@ -13,4 +13,3 @@ var1=`ifconfig wlan0 |awk '/inet/{print $2}'|awk -F: '{print $2}'`
 rm -f /etc/sysconfig/network-scripts/ifcfg-wlan0
 
 echo "get ip: $var1"
-
