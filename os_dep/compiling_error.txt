@@ -1,0 +1,4 @@
+G:\GitHub\Realtek-rtl8811AU_8812AU_8821AU_linux-source-code\os_dep\osdep_service.c:24:23: fatal error: drv_types.h: No such file or directory
+ #include <drv_types.h>
+                       ^
+compilation terminated.
